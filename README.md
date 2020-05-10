@@ -1,7 +1,8 @@
 # amazon
 
 A new Flutter project.
-
+ ![amazon](amazon.gif)
+ 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
